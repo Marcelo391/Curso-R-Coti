@@ -1,0 +1,3 @@
+nome	email	sexo
+maria	maria@gmail.com	f
+marcelo marcelo_rde@yahoo.com.br m
