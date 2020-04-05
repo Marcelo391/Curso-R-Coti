@@ -1,12 +1,15 @@
 #VETORES
 
-#Atribuição
+#AtribuiÃ§Ã£o
 
 a = 10
 c <- 10
 
 a
 c
+
+#Pesquisa/Help sobre uma função
+?c
 
 #Criação de vetor
 vetor <- c(1, 2, 3, 4, 5, 6)
@@ -21,27 +24,27 @@ nomes
 
 #posição do vetor <- Primeira posição no R é sempre 1
 nomes[1]
-vetor[0] #<- Não existe
+vetor[0] #<- NÃ£o existe
 
 # Tamanho Vetor
 length(vetor)
 length(nomes)
 
-#verificar se é vetor
+#verificar se Ã© vetor
 is.vector(nomes)
 
-#Vetor numérico a partir de um intervalo
+#Vetor numÃ©rico a partir de um intervalo
 numeros <- 1:10
 numeros
 
-#Função seq
+#FunÃ§Ã£o seq
 numeros2 <- seq(0, 1, by = 0.1)
 numeros2
 
 #Vetores de tipos diferentes
 c("a", numeros)
 
-#Operações matemáticas com vetores
+#OperaÃ§Ãµes matemÃ¡ticas com vetores
 operacao <- seq(10, 40, by = 10)
 
 operacao -3
@@ -56,7 +59,7 @@ repetidos <-  rep(1,5)
 
 repetidos2 <- rep(c(1,2), c(3,4))
 
-#Função paste() -> usada para vetores de caracteres
+#FunÃ§Ã£o paste() -> usada para vetores de caracteres
 n <- c("Lucas", "Bia", "Ana")
 
 
