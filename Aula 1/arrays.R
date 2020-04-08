@@ -55,6 +55,7 @@ dimnames(Titanic)
 apply(Titanic, 3, sum)
 
 
+
 #Porcentagem de crianças que sobreviveram
 
 
@@ -65,6 +66,7 @@ apply(Titanic, 3, sum)
 
 #Porcentagem de Crianças que sobreviveram divido pelo total de crianças
 (sum(Titanic[ , , 1 , 2]) / sum(Titanic[ , , 1 , ]) ) * 100
+
 
 
 

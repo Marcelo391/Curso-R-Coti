@@ -17,6 +17,7 @@ help(iris)
 
 dim(iris)
 dimnames(iris)
+names(iris)
 
 #Primeiros registros
 head(iris)
