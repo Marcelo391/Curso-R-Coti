@@ -1,11 +1,5 @@
-#Estatística
+# Estatística
 
-## Observação e Experimento
-
-### Observação
-
-### Experimento
----
 
 ## Amostra, Censo e Inferência
 
@@ -106,6 +100,9 @@ Uma distribuição em que a media dos dados encontra-se no centro.
 
 ~~~ r
     pnorm()
+    dnorm()
+    qnorm()
+    rnorm()
 ~~~
 
 
