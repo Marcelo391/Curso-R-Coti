@@ -96,6 +96,9 @@ Uma distribuição em que a media dos dados encontra-se no centro.
 * 4,2% dos dados estão a três desvios padrão da média
 * 0,2% dos dados estão a quatro desvios padrão da média
 
+Gráfico de frequância em formato de sino
+A distribuição normal é simetricamente distribuida
+
 ### Função no R
 
 ~~~ r
