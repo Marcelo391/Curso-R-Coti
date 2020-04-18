@@ -36,12 +36,12 @@ Estuda a relação entre uma variável chamada de dependente e outras variáveis
 * O restante da variabilidade está em variáveis não incluidas no modelo
 * Varia entre 0 e 1
 * Calcula-se com o quadrado do coeficiente de correlação
-    * Ex: Correlação de 0.93 -> Determinação de 0.86
+    * Ex: **Correlação** de 0.93 -> **Determinação** de 0.86
 
 ### Previsão de novo valor
-
+~~~
 **Previsão:** Intersecção + ( Inclinação * Valor_a_Prever )
-
+~~~
 
 
 ## Regressão Logística
@@ -51,7 +51,7 @@ Semelhante a regressão linear porém a variável de resposta é binária: suces
 1 -> Sucesso
 0 -> Fracasso
 
-**Ex:**: Amostra aleatória de uma concessionária com 92 clientes. Estima se o cliente é adimplente ou inandimplente.
+**Ex:** Amostra aleatória de uma concessionária com 92 clientes. Estima se o cliente é adimplente ou inandimplente.
 
 ## Séries Temporais
 
@@ -62,7 +62,7 @@ Estuda o comportamento de uma variável continua ao longo do tempo.
 * Autocorrelação, dependência entre os intervalos
 Ex: Dias, Horas, Semanas, Meses
 
-### Áreas
+### Áreas:
 * Econometria
 * Previsão do tempo
 * Previsão Financeira
@@ -71,7 +71,7 @@ Ex: Dias, Horas, Semanas, Meses
 **Não Estacionaria** -> Contém mudanças mais acentuadas. Mudam os valores das médias e variâncias.
 
 
-#### Componentes
+### Componentes:
 
 - ***Tendência***
 - ***Sazionalidade***
