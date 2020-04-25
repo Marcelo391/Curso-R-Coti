@@ -10,8 +10,8 @@
 	- Estatística
 	- Probabilidade
 	- Regressões
-	- Treinamento supervisionado
-	- Treinamento não supervisionado
+	- Treinamento Supervisionado
+	- Treinamento Não Supervisionado
 	
 
 
